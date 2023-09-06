@@ -1,0 +1,4 @@
+This is the write command in new sample file
+This allows us to perform write    
+Welcome to all           
+This allows us to append the file wothout truncating
