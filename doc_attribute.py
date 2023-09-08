@@ -1,7 +1,7 @@
 # printing doc string
 
 # __doc__ - this is an attribute NOT METHOD like init and str
-
+# this will display everything in the comments. could be instaructions.
 
 class Circle:
 	"""This is an example fo rDoc attribute. This is where you give all the info about the method or program
